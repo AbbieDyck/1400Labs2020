@@ -1,9 +1,9 @@
 /***************************************
-**	Developer		:Abbie Dyck		  **
-** 	Student ID		:110046150		  **
-** 	Program Name	:sequence.c	 	  **
-** 	Version			:1				  **
-** 	Date			:November 14, 2020**
+** Developer	:Abbie Dyck	      **
+** Student ID	:110046150	      **
+** Program Name	:sequence.c	      **
+** Version		:1	      **
+** Date		:November 14, 2020    **
 ****************************************/
 
 
