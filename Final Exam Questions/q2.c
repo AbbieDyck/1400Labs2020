@@ -1,9 +1,9 @@
 /***************************************
-**	Developer		:Abbie Dyck		  **
-** 	Student ID		:110046150		  **
-** 	Program Name	:q2.c	 		  **
-** 	Version			:1				  **
-** 	Date			:December 12, 2020**
+** Developer	:Abbie Dyck	     **
+** Student ID	:110046150	      **
+** Program Name	:q2.c	 	      **
+** Version	:1		      **
+** Date		:December 12, 2020    **
 ****************************************/
 #include <stdio.h>
 
