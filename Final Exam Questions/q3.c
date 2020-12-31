@@ -1,10 +1,10 @@
-/***************************************
- **	Developer		:Abbie Dyck		  **
- ** Student ID		:110046150		  **
- ** Program Name	:q3.c	 		  **
- ** Version			:1				  **
- ** Date			:December 12, 2020**
- ****************************************/
+/********************************************
+ ** Developer		:Abbie Dyck        **
+ ** Student ID		:110046150	   **
+ ** Program Name	:q3.c	 	   **
+ ** Version		:1		   **
+ ** Date		:December 12, 2020 **
+ ********************************************/
 #include <stdio.h>
 
 void append(char str[]);
@@ -93,13 +93,9 @@ int replace(char str[], char key[]) {
 		puts("******");
 		printf("The new string is: %s", str);
 		return 1;
-
-
 	} else {
 		printf("The keyword, %s, was not found in the string. :(\n", key);
 		puts("******");
 		return 0;
-
-
 	}
 }
